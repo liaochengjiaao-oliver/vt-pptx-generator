@@ -25,8 +25,8 @@ Built for weekly lab meetings, but works for any VT presentation.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/liaochengjiaao-oliver/vt-slides.git
-cd vt-slides
+git clone https://github.com/liaochengjiaao-oliver/vt-pptx-generator.git
+cd vt-pptx-generator
 ```
 
 ### 2. Install Python dependencies
