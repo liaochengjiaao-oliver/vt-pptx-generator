@@ -1,0 +1,18 @@
+# VT template (copyrighted, must be downloaded separately)
+vt_template.pptx
+
+# Generated output
+output/*.pptx
+
+# Weekly personal content
+weekly/*.md
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
